@@ -1,0 +1,5 @@
+# Plz fill the above credential before running the app
+
+# Mongo db connection string
+MOGODB_CONN=""
+DB_NAME=""
